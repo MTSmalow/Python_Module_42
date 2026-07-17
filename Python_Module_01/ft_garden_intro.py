@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 na = "Rose"
 hgt = "25cm"
 age = "30 days"
